@@ -1,0 +1,9 @@
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\bin\Release\rxs160630-Asg4.exe.config
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\bin\Release\rxs160630-Asg4.exe
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\bin\Release\rxs160630-Asg4.pdb
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\obj\Release\rxs160630-Asg4.csprojResolveAssemblyReference.cache
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\obj\Release\rxs160630_Asg4.Form1.resources
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\obj\Release\rxs160630_Asg4.Properties.Resources.resources
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\obj\Release\rxs160630-Asg4.csproj.GenerateResource.Cache
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\obj\Release\rxs160630-Asg4.exe
+C:\Users\rauna\onedrive\documents\visual studio 2015\Projects\rxs160630-Asg4\rxs160630-Asg4\obj\Release\rxs160630-Asg4.pdb
